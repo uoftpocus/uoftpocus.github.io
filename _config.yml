@@ -6,20 +6,18 @@
 # --- Required options --- #
 
 # Name of website
-title: Medical Approaches
+title: UofT POCUS Interest Group 
 
 # Your name to show in the footer
-author: Evan Tang
+author: University of Toronto POCUS Interest Group
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "https://evantango.github.io/"
-  Approaches: 
-    - Chest Pain: "https://evantango.github.io/"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  About Me: "aboutme"
+  Video Sessions: 
+    - Introduction to POCUS IG: ""
+
  
 
 # --- Logo --- #
@@ -41,27 +39,27 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "evan.tang@mail.utoronto.ca"
-#  facebook: deanattali
-#  github: daattali
-#  twitter: daattali
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  email: "uoftpocus@gmail.com"
+#  facebook: 
+#  github: 
+#  twitter: 
+#  reddit: 
+#  linkedin: 
+#  xing: 
+#  stackoverflow: 
+#  snapchat: 
+#  instagram: 
+#  youtube: 
+#  spotify: 
+#  telephone: 
+#  steam: 
+#  twitch: 
+#  yelp: 
+#  telegram: 
+#  calendly: 
+#  mastodon: 
+#  ORCID: 
+#  google-scholar: 
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
